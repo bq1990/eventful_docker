@@ -276,4 +276,4 @@ eventful_docker/media/
 .pytest_cache/
 .ipython/
 .env
-.envs/*
+
